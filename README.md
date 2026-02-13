@@ -48,10 +48,8 @@ This project was created as part of improving study techniques and building prac
 
 ## 🛠 Tech Stack
 
-*(Edit this based on what you're actually using)*
-
-* **Frontend:** HTML / CSS / JavaScript *(or React if applicable)*
-* **Backend:** Python (Flask / FastAPI) or Node.js
+* **Frontend:**  JavaScript 
+* **Backend:** Python (FastAPI) 
 * **Storage:** JSON / SQLite
 * **Version Control:** Git + GitHub
 
